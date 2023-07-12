@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+html{
+	background-color :#f5f5f5;
+}
+.test-1{
+	background-color:white;
+	width:80%;
+	border-radius:3px;
+	border: 2px grey;
+	padding:5px
+}
+#john{
+	text-align:right;
+}
