@@ -9,6 +9,20 @@ html{
 	border: 2px grey;
 	padding:5px
 }
+.test-2{
+	background-color:white;
+	width:80%;
+	border-radius:3px;
+	border: 2px grey;
+	padding:5px
+}
+.test-3{
+	background-color:white;
+	width:80%;
+	border-radius:3px;
+	border: 2px grey;
+	padding:5px
+}
 #john{
 	text-align:right;
 }
